@@ -1,4 +1,4 @@
-# Fuse - Admin template and Starter project for Angular
+# RH management
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 
