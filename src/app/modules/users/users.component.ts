@@ -1,12 +1,12 @@
 import { Component, ViewEncapsulation } from '@angular/core';
 
 @Component({
-    selector     : 'example',
+    selector     : 'users',
     standalone   : true,
-    templateUrl  : './example.component.html',
+    templateUrl  : './users.component.html',
     encapsulation: ViewEncapsulation.None,
 })
-export class ExampleComponent
+export class UsersComponent
 {
     /**
      * Constructor
