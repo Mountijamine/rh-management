@@ -24,6 +24,54 @@ export class UsersComponent
             "profile": "web developer",
             "department": "WL UK" 
         },
+        {
+            "firstname": "amine",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
+        {
+            "firstname": "amine",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
+        {
+            "firstname": "amine",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
+        {
+            "firstname": "jawad",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
+        {
+            "firstname": "amine",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
+        {
+            "firstname": "amine",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
+        {
+            "firstname": "amine",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
+        {
+            "firstname": "amine",
+            "lastname" : "ezzahraoui",
+            "profile": "web developer",
+            "department": "WL UK" 
+        },
 
     ]
     /**
